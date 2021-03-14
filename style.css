@@ -1,0 +1,6 @@
+.gradient{
+    background-image: linear-gradient(to right, red,violet);
+}
+.align-centre{
+    text-align: center;
+}
